@@ -52,4 +52,4 @@ document
     }
   });
 
-weather.fetchWeather("Costa Rica");
+weather.fetchWeather("Berlin");
